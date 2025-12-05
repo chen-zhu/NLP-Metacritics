@@ -242,10 +242,6 @@ Masking game titles affects nearly half the corpus but has **minimal impact** on
 
 ## 6. Repository Structure
 
-Suggested layout (you can adjust to match your actual files):
-
-```bash
-.
 ├── notebooks/
 │   ├── 01_data_collection_and_preprocessing.ipynb
 │   ├── 02_eda_embeddings_sentiment_topics.ipynb
