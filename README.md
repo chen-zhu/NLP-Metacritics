@@ -242,6 +242,8 @@ Masking game titles affects nearly half the corpus but has **minimal impact** on
 
 ## 6. Repository Structure
 
+<img width="479" height="192" alt="image" src="https://github.com/user-attachments/assets/a9a3434f-76c2-487c-bf67-4b81016b8b3c" />
+
 ├── notebooks/
 │   ├── 01_data_collection_and_preprocessing.ipynb
 │   ├── 02_eda_embeddings_sentiment_topics.ipynb
@@ -283,7 +285,7 @@ Then run the notebooks in order:
 
 ---
 
-8. Authors & Acknowledgements
+## 8. Authors & Acknowledgements
 - Project team: Chen Zhu, Hla Win Tun, James Hah
 - Course: IST 322 – Natural Language Processing, Claremont Graduate University.
 - Instructor: Hengwei Zhang
@@ -294,7 +296,7 @@ We gratefully acknowledge:
 - The authors of the libraries used: spaCy, scikit-learn, Gensim, TextBlob, VADER, and others.
 
 ---
-9. References
+## 9. References
 
 - Key references and tools used in this project (also listed in the report):
 - Metacritic. (2025). Metacritic video game reviews.
