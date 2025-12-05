@@ -2,7 +2,7 @@
 
 > **Course**: IST 322 – Natural Language Processing  
 > **Repo**: `chen-zhu/NLP-Metacritics`  
-> **Main Goal**: Predict whether a video game has a **high or low critic Metascore** using **only player-written Metacritic reviews**.
+> **Main Goal**: Predict whether a video game has a **high or low critic Metascore** using **only player-written Metacritic English reviews**.
 
 ---
 
