@@ -242,17 +242,7 @@ Masking game titles affects nearly half the corpus but has **minimal impact** on
 
 ## 6. Repository Structure
 
-<img width="479" height="192" alt="image" src="https://github.com/user-attachments/assets/a9a3434f-76c2-487c-bf67-4b81016b8b3c" />
-
-├── notebooks/
-│   ├── 01_data_collection_and_preprocessing.ipynb
-│   ├── 02_eda_embeddings_sentiment_topics.ipynb
-│   └── 03_supervised_models_and_fuzzing.ipynb
-├── data/
-│   ├── raw/           # raw scraped Metacritic CSV (not committed if large)
-│   └── processed/     # English-only & feature-enriched CSVs (sa.csv, etc.)
-├── README.md
-└── requirements.txt
+<img width="431" height="363" alt="image" src="https://github.com/user-attachments/assets/7a79c0b4-550e-4418-a226-2e28698a6691" />
 
 ---
 
