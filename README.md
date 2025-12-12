@@ -242,7 +242,8 @@ Masking game titles affects nearly half the corpus but has **minimal impact** on
 
 ## 6. Repository Structure
 
-<img width="431" height="363" alt="image" src="https://github.com/user-attachments/assets/7a79c0b4-550e-4418-a226-2e28698a6691" />
+<img width="459" height="316" alt="image" src="https://github.com/user-attachments/assets/34229479-6e3d-4b3f-8ac5-9b1e1ac439d4" />
+
 
 ---
 
